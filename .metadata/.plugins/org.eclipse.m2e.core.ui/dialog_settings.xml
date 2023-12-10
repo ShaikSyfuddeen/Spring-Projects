@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="G:\Spring Project\01-spring-boot-overview\02-dev-tools-demo"/>
 			<item value="G:\Spring Project\myapp"/>
 		</list>
 		<list key="projectNameTemplate">
